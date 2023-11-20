@@ -1,5 +1,5 @@
 
-# Video Streaming Application
+# FaceDetection
 
 This project is a simple Flask-based application for video streaming. It captures video from a camera and streams it to a web interface. Users can access the live video feed by visiting the corresponding URL.
 
